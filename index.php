@@ -162,7 +162,31 @@
         </div>
     </div>
 </section>
-
+<section class="blogs">
+    <div class="container">
+        <div class="section-title">
+            <h1>Articles</h1>
+        </div>
+        <div class="owl-carousel owl-theme">
+            <div class="item">
+                <div class="main-box">
+                    <div class="img-box">
+                        <img src="assets/image/blog-1.jpg">
+                    </div>
+                    <div class="date">
+                        <p>December 10, 2019 <span>634</span></p>
+                    </div>
+                    <div class="blog-title">
+                        <p>How to Plant a Succulent</p>
+                    </div>
+                    <div class="blog-body">
+                        <p>The goal of this new editor is to make adding rich content to WordPress.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
 
 
 
