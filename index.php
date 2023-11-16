@@ -162,7 +162,71 @@
         </div>
     </div>
 </section>
+<section class="cat">
+    <div class="container">
+        <div class="section-title">
+            <h1>Plant Categories</h1>
+        </div>
+        <div class="row" data-aos="zoom-in-up">
+            <div class="col-lg-8">
+                <div class="row">
+                    <div class="col-lg-12">
+                        <div class="big-box hvr-curl-top-right">
+                            <img src="assets/image/banner-3.jpg">
+                            <p class="cat-name">Table Tree Plant</p>
+                        </div>
+                    </div>
+                    <div class="col-lg-6">
+                        <div class="small-box hvr-curl-top-right">
+                            <img src="assets/image/banner-1.jpg">
+                            <p class="cat-name">Potted Plant</p>
+                        </div>
+                    </div>
+                    <div class="col-lg-6">
+                        <div class="small-box hvr-curl-top-right">
+                            <img src="assets/image/banner-3.jpg">
+                            <p class="cat-name">Indoor Plant</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4">
+                <div class="row">
+                    <div class="col-lg-12">
+                        <div class="right-upper-box hvr-curl-top-right">
+                            <img src="assets/image/banner-3.jpg">
+                            <p class="cat-name">House Plant</p>
+                        </div>
+                    </div>
+                    <div class="col-lg-12">
+                        <div class="right-lower-box hvr-curl-top-right">
+                            <img src="assets/image/cat-1.jpg">
+                            <p class="cat-name">Cactus Plant</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
 
+<section class="testimonials">
+    <div class="section-title">
+        <h1>Testimonials</h1>
+    </div>       
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-md-6 what">
+                <h1>What They Say About Us</h1>
+            </div>
+            <div class="col-md-6 say">
+                <div class="testemonial">
+                    
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
 
 
 
